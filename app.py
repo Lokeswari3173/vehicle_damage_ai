@@ -7,7 +7,9 @@ from utils.genai_report import generate_ai_report
 st.set_page_config(page_title="🚗 Damage AI", layout="wide")
 
 st.title("🚗 Vehicle Damage Assessment AI (GenAI Powered)")
-
+st.sidebar.title("👩‍💻 About Developer")
+st.sidebar.write("*Built by Mangasamudram Lokeswari*")
+st.sidebar.write("Data Science & Generative AI")
 
 
 uploaded_file = st.file_uploader("Upload Vehicle Image", type=["jpg", "png", "jpeg"])
