@@ -145,10 +145,8 @@ The application provides:
 # 📸 Screenshots
 
 ### 🔹 Home Page
-
-(![Uploading image.png…]()
+(<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/c17f638f-3b0d-4f3b-abb3-3903a076a27f" />
 )
-
 ### 🔹 Upload Vehicle Image
 
 (Add Screenshot)
