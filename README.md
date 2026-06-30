@@ -146,7 +146,8 @@ The application provides:
 
 ### 🔹 Home Page
 
-(Add Screenshot)
+(![Uploading image.png…]()
+)
 
 ### 🔹 Upload Vehicle Image
 
