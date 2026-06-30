@@ -149,7 +149,8 @@ The application provides:
 )
 ### 🔹 Upload Vehicle Image
 
-(Add Screenshot)
+(<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/a355dd9a-1449-4732-84b1-a50f88f40983" />
+)
 
 ### 🔹 Damage Analysis
 
