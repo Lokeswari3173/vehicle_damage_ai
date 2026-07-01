@@ -154,15 +154,15 @@ The application provides:
 
 ###  Repair Cost Estimation & Damage Analysis
 
-(<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/0b60db4f-bd65-4d4f-9042-efe317a12e66" />
-)
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/0b60db4f-bd65-4d4f-9042-efe317a12e66" />
+
 
 ### 🔹 Inspection Report
 
 <img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/9f9cddac-f198-402b-acc0-c5d787cb32a5" />
 
 
-(<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/024da564-4057-432a-8b25-68e9179c6207" />
+<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/024da564-4057-432a-8b25-68e9179c6207" />
 <img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/5c746325-74a9-42ce-a11c-6041de4c5919" />
 
 
